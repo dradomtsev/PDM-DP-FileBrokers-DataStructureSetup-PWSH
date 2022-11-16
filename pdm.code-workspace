@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "./prj_struct_create_srv"
+		},
+		{
+			"path": "pdm_lib"
+		},
+		{
+			"name": "pdm",
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\drado\\source\\repos\\pdm\\prj_struct_create_srv"
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
